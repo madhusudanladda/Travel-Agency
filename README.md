@@ -24,19 +24,33 @@ A desktop-based Travel & Tour Booking Management System developed using **Java (
 ## 🏗 Project Structure
 
 Travel-Agency/
+
 │
+
 ├── Travel Agency GUI/
+
 │ ├── Admin.java
+
 │ ├── AdminLogin.java
+
 │ ├── AdminAdd.java
+
 │ ├── UserLogin.java
+
 │ ├── UserSignUp.java
+
 │ ├── Start.java
+
 │ ├── images/
+
 │ ├── admin_data.txt
+
 │ ├── user_data.txt
+
 │ └── *.class
+
 │
+
 └── README.md
 
 
